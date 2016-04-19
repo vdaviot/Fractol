@@ -1,0 +1,26 @@
+How to :
+
+Use ./fractol [fractal type] [iteration number (optionnal)]
+
+Available fractal types are :
+
+-Mandel
+-Julia
+-Ship
+-Triangle
+
+Shortcut :
+
+[R] for reload the colorset.
+[Q] for black and white colors.
+[W] for activate/desactivate orbit trap coloring mode. (in progress,
+	it will be available only for julia and mandel)
+[E] for activate/desactivate smooth coloring mode. (in progress, done for julia, it will be available only for julia and mandel)
+[Arrow] will move the fractal.
+[+] for incrementing the iteration counter.
+[-] for decrementing the iteration counter.
+[Mouse] can be used in Julia's set for moving constant numbers.
+[Mousewheel Up/Down] for zoom 
+[Escape] button for exit the program.
+
+Thanks to use my program, hope you'll enjoy it !
